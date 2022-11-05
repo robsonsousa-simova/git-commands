@@ -1,7 +1,7 @@
 # GIT COMMANDS AND ALIASES COMMANDS
 ### Comandos Git e Apelidos Para Comandos
 
-[![GitHub](https://img.shields.io/github/license/robsonsousa-simova/git-commands=red)](https://img.shields.io/github/license/robsonsousa-simova/git-commands/blob/main/LICENSE.md)
+[![GitHub license](https://img.shields.io/github/license/robsonsousa-simova/git-commands?color=red)](https://github.com/robsonsousa-simova/git-commands)
 
 
 |       **Nome**        |              **Github**               |    **Tipo**    |       
